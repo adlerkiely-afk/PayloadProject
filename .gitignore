@@ -1,0 +1,5 @@
+# Local working files, not part of the public repo
+CLAUDE.md
+.claude/
+research_notes/
+reports/
